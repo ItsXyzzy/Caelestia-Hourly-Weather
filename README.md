@@ -9,11 +9,13 @@ An hourly forecast for the Weather tab of the [Caelestia](https://github.com/cae
 
 It uses the data the Weather tab already loads, so there are no extra requests.
 
+## Screenshots
+![Hourly Weather 1](screenshots/weth_1.png)
 ## Install
 
 ```bash
-git clone <this repo>
-cd <folder>
+git clone https://github.com/ItsXyzzy/Caelestia-Hourly-Weather
+cd caelestia-hourly-weather
 ./install.sh
 ```
 
